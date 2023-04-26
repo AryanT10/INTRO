@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @AryanT10
-- 👀 I’m interested in learning new things and trying to grow with different aspects .
 - 🌱 Welcome to my GitHub profile! My name is @AryanT10 and I'm a 19-year-old programmer passionate about learning and growing.
 - 🐰 As a beginner in these fields, I'm constantly learning and improving my skills. On my profile, you'll find a collection of my projects that I've completed as part of my learning journey. These projects range from simple command-line tools to dynamic growth with modern UI/UX design.
 - 😊 My C programming projects showcase my understanding of programming fundamentals, algorithms, and data structures. On the other hand, my web development projects will be demonstrating my proficiency in HTML, CSS, JavaScript, and various frameworks and libraries.
