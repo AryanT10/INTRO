@@ -4,8 +4,8 @@
 - 😌 I hope my work serves as an inspiration for other beginners and as a reference for more experienced programmers. Please feel free to browse through my projects, provide feedback, and use them as a learning resource.
 - 🫡 Thank you for visiting my GitHub profile, and let's keep learning and coding!
 - 📫 How to reach me : gmail - aryantuwar676@gmail.com
-
-![giphy](https://github.com/AryanT10/AryanT10/assets/59858427/f95e7f7f-a3e7-4849-9893-817c2fdc9ad6)
+ 
+![1351965326 fluff-kevlar_starfieldgif-231475009](https://github.com/AryanT10/AryanT10/assets/59858427/75ddeeef-a805-47fd-acde-1d76be3f0493)
 
 <!---
 AryanT10/AryanT10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
