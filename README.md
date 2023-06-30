@@ -3,7 +3,7 @@
 - 😊 My C programming projects showcase my understanding of programming fundamentals, algorithms, and data structures. On the other hand, my web development projects will be demonstrating my proficiency in HTML, CSS, JavaScript, and various frameworks and libraries.
 - 😌 I hope my work serves as an inspiration for other beginners and as a reference for more experienced programmers. Please feel free to browse through my projects, provide feedback, and use them as a learning resource.
 - 🫡 Thank you for visiting my GitHub profile, and let's keep learning and coding!
-- 📫 How to reach me : gmail - aryantuwar676@gmail.com
+- 📫 How to reach me : gmail - aryantuwar676@gmail.com or tuwararyan495@gmail.com
  
 ![1351965326 fluff-kevlar_starfieldgif-231475009](https://github.com/AryanT10/AryanT10/assets/59858427/75ddeeef-a805-47fd-acde-1d76be3f0493)
 
