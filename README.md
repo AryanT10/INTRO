@@ -6,7 +6,7 @@
 - 📫 How to reach me : gmail - aryantuwar676@gmail.com or tuwararyan495@gmail.com
  
 ![1351965326 fluff-kevlar_starfieldgif-231475009](https://github.com/AryanT10/AryanT10/assets/59858427/75ddeeef-a805-47fd-acde-1d76be3f0493)
-
+![Aryan's GitHub](https://github-readme-stats.vercel.app/api?username=AryanT10&theme=shadow_red&show_icons=true)
 <!---
 AryanT10/AryanT10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
