@@ -3,6 +3,8 @@
 
 -🐰 As a student in my second semester, I'm actively learning and improving my skills in various programming languages such as C++, JavaScript, and more. On my profile, you'll find a collection of projects that I've completed as part of my college assignments and personal endeavors.
 
+-🧑🏻‍💻 Currently, I'm exploring various domains of programming and software development, eager to apply my learning in real-world projects
+
 -😊 I am learning C++ and the understanding of programming fundamentals, object-oriented concepts, algorithms, and data structures. I'm continuously exploring new concepts and techniques to enhance my coding abilities, " learn until the Stack overflows ".
 
 -🌐 Additionally, I'm working on web development projects using HTML, CSS, and JavaScript. These projects showcase my proficiency in creating interactive and visually appealing web applications, incorporating frameworks and libraries to enhance functionality.
