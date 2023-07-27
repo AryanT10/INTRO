@@ -4,9 +4,9 @@
 - ‍💻 Currently, I'm exploring various domains of programming and software development, eager to apply my learning in 
 real-world projects
 - 😊 My C& C++ programming projects showcase my understanding of programming fundamentals, algorithms, and data structures. 
-On 
-the other hand, my web development projects will be demonstrating my proficiency in HTML, CSS, JavaScript, and various frameworks and libraries.
-- 😌 I hope my work serves as an inspiration for other beginners and as a reference for more experienced programmers. Please feel free to browse through my projects, provide feedback, and use them as a learning resource.
+     On the other hand, my web development projects will be demonstrating my proficiency in HTML, CSS, JavaScript, and 
+     variousframeworks and libraries.
+- 😌 I hope my work serves as an inspiration for other beginners and as a reference for more experienced programmers.Please feel free to browse through my projects, provide feedback, and use them as a learning resource.
 - 🫡 Thank you for visiting my GitHub profile, and let's keep learning and coding!
 - 📫 How to reach me : gmail - aryantuwar676@gmail.com or tuwararyan495@gmail.com
  
