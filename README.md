@@ -13,7 +13,6 @@
 
 -🫡 Thank you for visiting my GitHub profile, and I invite you to explore my projects. Let's continue our learning and coding journey together!
 
->>>>>>> origin
 - 📫 How to reach me : gmail - aryantuwar676@gmail.com or tuwararyan495@gmail.com
  
 ![Aryan's GitHub](https://github-readme-stats.vercel.app/api?username=AryanT10&theme=shadow_red&show_icons=true)
