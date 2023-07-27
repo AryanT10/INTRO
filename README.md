@@ -1,5 +1,4 @@
 ![1351965326 fluff-kevlar_starfieldgif-231475009](https://github.com/AryanT10/AryanT10/assets/59858427/75ddeeef-a805-47fd-acde-1d76be3f0493)
-<<<<<<< HEAD
 -🌱 Welcome to my GitHub profile! My name is @AryanT10, and I'm a 19-year-old programmer currently studying in the CPA (Computer Programming and Analysis) program at Seneca College.
 
 -🐰 As a student in my second semester, I'm actively learning and improving my skills in various programming languages such as C++, JavaScript, and more. On my profile, you'll find a collection of projects that I've completed as part of my college assignments and personal endeavors.
