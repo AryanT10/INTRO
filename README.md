@@ -16,7 +16,7 @@
 - 📫 How to reach me : gmail - aryantuwar676@gmail.com or tuwararyan495@gmail.com
  
 ![Aryan's GitHub](https://github-readme-stats.vercel.app/api?username=AryanT10&theme=highcontrast&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AryanT10&layout=compact&hide=less,html,css,scss)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AryanT10&layout=compact&hide=less,html,css,scss&theme=highcontrast)
 
 <!---
 AryanT10/AryanT10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
