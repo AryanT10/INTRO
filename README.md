@@ -15,8 +15,8 @@
 
 - 📫 How to reach me : gmail - aryantuwar676@gmail.com or tuwararyan495@gmail.com
  
-![sss](https://github.com/AryanT10/INTRO/assets/59858427/851ef624-9b13-4acd-8804-1900d1e7c6fc)
-![Aryan's GitHub](https://github-readme-stats.vercel.app/api?username=AryanT10&theme=highcontrast&show_icons=true)
+![sss](https://github.com/AryanT10/INTRO/assets/59858427/851ef624-9b13-4acd-8804-1900d1e7c6fc) 
+  ![Aryan's GitHub](https://github-readme-stats.vercel.app/api?username=AryanT10&theme=highcontrast&show_icons=true)
 
 
 <!---
