@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ARYAN</h1>
-<h3 align="center">A passionate Fullstack developer from Toronto</h3>
+<h3 align="center">A PASSIONATE FULLSTACK DEVELOPER FROM TORONTO </h3>
 
 ![1351965326 fluff-kevlar_starfieldgif-231475009](https://github.com/AryanT10/AryanT10/assets/59858427/75ddeeef-a805-47fd-acde-1d76be3f0493)
 🌱 Welcome to my GitHub profile ! I'm a 19-year-old programmer currently studying in the CPA (Computer Programming and Analysis) program at Seneca College.
