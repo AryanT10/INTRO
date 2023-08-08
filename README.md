@@ -2,11 +2,11 @@
 <h3 align="center">A PASSIONATE FULLSTACK DEVELOPER FROM TORONTO </h3>
 
 ![1351965326 fluff-kevlar_starfieldgif-231475009](https://github.com/AryanT10/AryanT10/assets/59858427/75ddeeef-a805-47fd-acde-1d76be3f0493)
-🌱 Welcome to my GitHub profile ! I'm a 19-year-old programmer currently studying in the CPA (Computer Programming and Analysis) program at Seneca College.
+🌱 Welcome to my GitHub profile ! I'm a 19-year-old developer currently studying in the CPA (Computer Programming and Analysis) program at Seneca College.
 
 🧑🏻‍💻 Currently, I'm exploring various domains of programming and software development, eager to apply my learning in real-world projects
 
-🔭 I am learning react for the understanding of UI/UX fundamentals, C++ for object-oriented concepts, JS algorithms, and data structures. I'm continuously exploring new concepts and techniques to enhance my coding abilities, " learn until the Stack overflows ".
+🔭 I am learning react for the understanding of UI/UX fundamentals, C++ for object-oriented concepts, JS algorithms, and data structures. I'm continuously exploring new concepts and techniques to enhance my coding abilities. <b> <i> " Learn until the Stack overflows " </i> </b>.
 
 😁 My GitHub repository serves as a platform to share my work, inspire fellow beginners, and provide a valuable resource for experienced programmers. I welcome feedback and suggestions to improve and grow as a developer.
 
