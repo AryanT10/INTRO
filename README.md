@@ -7,13 +7,13 @@
 
 🧑🏻‍💻 Currently, I'm exploring various domains of programming and software development, eager to apply my learning in real-world projects
 
-🔭 I am learning `React` for the understanding of `UI/UX fundamentals`, `C++` for `object-oriented concepts`, `JS algorithms`, and `data structures`. I'm continuously exploring new concepts and techniques to enhance my coding abilities. <b> <i> " Learn until the Stack overflows " </i> </b>.
+🔭 I am learning `MERN` stack for the understanding of `FULLSTACK-DEVELOPMENT`, `JS algorithms`, and ` DSA `. I'm continuously exploring new concepts and techniques to enhance my programming abilities. <b> <i> " Learn until the Stack overflows " </i> </b>.
 
-😁 My GitHub repository serves as a platform to share my work, inspire fellow beginners, and provide a valuable resource for experienced programmers. I welcome feedback and suggestions to improve and grow as a developer.
+🥅 Building dynamic, scalable web applications that leverage the power of `MERN`
 
-💬 Ask me about `ANYTHING`, cause i will come back with an answer..
+💬 Ask me about `ANYTHING`. I will make sure to learn from everything
 
-🦉 Thank you for visiting my GitHub profile, and I invite you to explore my projects. Let's continue our learning and coding journey together!
+🦉 Thank you for visiting my GitHub profile, Let's continue our learning and coding journey together!
 
 <hr>
 <h3 align="left">Connect with me:</h3>
